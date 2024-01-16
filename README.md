@@ -171,5 +171,9 @@ List any prerequisites or dependencies that need to be installed before can use 
    Enter the text for translation (type 'exit' to end): Hello, how are you doing?
    Original Text: Hello, how are you doing?
    Translated Text: Bonjour comment allez-vous?
+<<<<<<< HEAD
    ```
 >>>>>>> 99fb459 (Initial commit README.md)
+=======
+   ```
+>>>>>>> 5b3e7c5 (Add files via upload)
